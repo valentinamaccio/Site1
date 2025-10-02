@@ -1,0 +1,37 @@
+
+h1{ 
+	color: #91643c;
+}
+
+body{
+	background-color: #f2e8cf;
+}
+
+p{
+	color: #0a0a0a;
+}
+
+.brownParagraph{
+	color: #0a0a0a;
+}
+
+table,td {
+	border-style: dotted;
+}
+table{
+	border-width: 4px;
+	border-color:#91643c;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+td{
+	border-width: 2px;
+	border-color:#91643c;
+}
+body{
+	background-image: url(fondoabstracto.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
